@@ -1,0 +1,6 @@
+site_name: Murphy LeetCode Docs
+theme:
+  name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
