@@ -36,7 +36,8 @@ theme:
         name: Switch to dark mode
 extra:
   homepage: https://cosmicdusty.cc/
-
+plugins:
+  - tags
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
