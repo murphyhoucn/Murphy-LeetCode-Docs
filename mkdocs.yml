@@ -61,4 +61,4 @@ extra_css:
 
 nav:
   - Index: 'index.md'
-  - learn: 'index.md'
+  - 0001 Two Sum: 'CPP/0001_Two_Sum.md'
