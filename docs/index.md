@@ -29,3 +29,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 情况有变…………
+
+https://leetcode.ca/2015-12-01-1-Two-Sum/
